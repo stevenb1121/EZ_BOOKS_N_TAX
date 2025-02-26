@@ -130,12 +130,12 @@ const PageFooter = () => {
         </Grid>
         <Grid item xs={12}>
           <Grid container direction={"row"}>
-            <Grid item xs={1}>
-              <Typography variant="h6">Copyright</Typography>
+            <Grid item xs={3}>
+              <Typography variant="h6">© EZ Books N Tax</Typography>
             </Grid>
-            <Grid item xs={10}></Grid>
-            <Grid item xs={1}>
-              <Typography variant="h6">Other words</Typography>
+            <Grid item xs={6}></Grid>
+            <Grid item xs={3}>
+              <Typography variant="h6">We will fullfil all of your business needs</Typography>
             </Grid>
           </Grid>
         </Grid>

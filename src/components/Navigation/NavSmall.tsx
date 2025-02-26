@@ -93,7 +93,7 @@ const NavSmall = () => {
               <ListItem disablePadding>
                 <ListItemButton
                   component={"a"}
-                  href="https://lahprotn.securefilepro.com/portal/#/login"
+                  href="https://ezbooksntax.securefilepro.com/portal/#/login"
                 >
                   <ListItemText primary="Client Portal" />
                 </ListItemButton>
